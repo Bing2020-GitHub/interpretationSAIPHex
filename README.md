@@ -1,0 +1,1 @@
+A small tool which was implementd to interpret SAIP file from DER TLV encoding to ASN.1 format in 2017.
